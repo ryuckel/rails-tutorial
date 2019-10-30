@@ -1,0 +1,13 @@
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+/Users/ryu/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20191030-69636-1y4m2t1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

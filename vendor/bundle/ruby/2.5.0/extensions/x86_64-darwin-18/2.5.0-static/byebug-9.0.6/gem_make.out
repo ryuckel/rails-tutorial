@@ -1,0 +1,19 @@
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+/Users/ryu/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20191030-69636-1w7719i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/ryu/Desktop/rails/sample_apps/5_1_2/ch14/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20191030-69636-1hcoa7d/byebug
